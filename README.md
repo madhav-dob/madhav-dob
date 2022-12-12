@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="![image](https://user-images.githubusercontent.com/105172764/207052051-8aab2e2d-87bd-40d7-9de1-7349855de3a0.png)
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src=["![image](https://user-images.githubusercontent.com/105172764/207052051-8aab2e2d-87bd-40d7-9de1-7349855de3a0.png)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3Dmysql%2BLogo&psig=AOvVaw0iqAMQrbKuHUw5W8xmLrPB&ust=1670934486147000&source=images&cd=vfe&ved=0CBAQjRxqGAoTCIDLwLTA8_sCFQAAAAAdAAAAABC5AQ)
 " alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhavagarwal2404&show_icons=true&locale=en&layout=compact" alt="madhavagarwal2404" /></p>
