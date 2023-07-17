@@ -11,6 +11,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg" alt="mysql" width="70" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a><a href="https://canva.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Canva_logo.png" alt="clojure" width="40" height="40"/></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhavagarwal2404&show_icons=true&locale=en&layout=compact" alt="madhavagarwal2404" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhavagarwal2404&show_icons=true&locale=en&layout=compact" alt="madhav-dob" /></p>
 
 
