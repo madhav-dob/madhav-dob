@@ -1,6 +1,6 @@
 <h1 align="center">Myself, Madhav</h1>
-- 🔭 Currently,connecting dots in 5G constellation !!
-
+- 🔭 Currently, connecting dots in the 5G constellation !!
+- Working on OpenRAN, O-DU, O-RU, DevOPs
 - 📫 How to reach me **madhavagarwal2404@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
