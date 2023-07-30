@@ -1,5 +1,5 @@
 <h1 align="center">Myself, Madhav</h1>
-- 🔭 I’m currently working on **5g,OpenRAN,**
+- 🔭 Currently,connecting dots in 5G constellation !!
 
 - 📫 How to reach me **madhavagarwal2404@gmail.com**
 
